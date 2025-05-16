@@ -38,6 +38,7 @@
 ### 🧬 Host Depletion & Multi-class Metagenomic Classifier *(2024–Present)*
 > A tool designed to perform **host depletion** and **multi-class classification** on metagenomic samples. Currently experimenting with **Transformer-based architectures** to improve accuracy and reduce computation time.  
 **Tech:** Python, PyTorch, Transformers
+🔗 [GitHub Organization](https://github.com/MetaTrio)
 
 ---
 
